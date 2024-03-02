@@ -1,0 +1,14 @@
+C:\Users\lucia\documentos\Imersao\JogodaForca\bin\Debug\net7.0\JogodaForca.exe
+C:\Users\lucia\documentos\Imersao\JogodaForca\bin\Debug\net7.0\JogodaForca.deps.json
+C:\Users\lucia\documentos\Imersao\JogodaForca\bin\Debug\net7.0\JogodaForca.runtimeconfig.json
+C:\Users\lucia\documentos\Imersao\JogodaForca\bin\Debug\net7.0\JogodaForca.dll
+C:\Users\lucia\documentos\Imersao\JogodaForca\bin\Debug\net7.0\JogodaForca.pdb
+C:\Users\lucia\documentos\Imersao\JogodaForca\obj\Debug\net7.0\JogodaForca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\documentos\Imersao\JogodaForca\obj\Debug\net7.0\JogodaForca.AssemblyInfoInputs.cache
+C:\Users\lucia\documentos\Imersao\JogodaForca\obj\Debug\net7.0\JogodaForca.AssemblyInfo.cs
+C:\Users\lucia\documentos\Imersao\JogodaForca\obj\Debug\net7.0\JogodaForca.csproj.CoreCompileInputs.cache
+C:\Users\lucia\documentos\Imersao\JogodaForca\obj\Debug\net7.0\JogodaForca.dll
+C:\Users\lucia\documentos\Imersao\JogodaForca\obj\Debug\net7.0\refint\JogodaForca.dll
+C:\Users\lucia\documentos\Imersao\JogodaForca\obj\Debug\net7.0\JogodaForca.pdb
+C:\Users\lucia\documentos\Imersao\JogodaForca\obj\Debug\net7.0\JogodaForca.genruntimeconfig.cache
+C:\Users\lucia\documentos\Imersao\JogodaForca\obj\Debug\net7.0\ref\JogodaForca.dll
